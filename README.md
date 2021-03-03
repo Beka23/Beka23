@@ -3,6 +3,7 @@ My name is Beksultan. Experienced in Ruby on Rails, JavaScript and React based p
 
 # Contact Me 
 Email: beksultankaiypov@gmail.com
+#
 [LinkedIn](https://www.linkedin.com/in/beksultan-kaiypov-1ba364206/)
 
 
