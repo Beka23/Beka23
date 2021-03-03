@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Beksultan. Experienced in Ruby on Rails, JavaScript and React based programming, I am a diligent worker possessing strong skills in writing clean code, problem solving, and learning new technologies. Recently I've successfully completed a Full-Stack Software Engineering program at Flatiron School. I am now eager to launch my career as a junior software developer. Open to relocate or work remotely. 
+My name is Beksultan. Experienced in Ruby on Rails, JavaScript and React based programming, I am a diligent worker possessing strong skills in writing clean code, problem solving, and learning new technologies. Recently I've successfully completed a Full-Stack Software Engineering program at Flatiron School. I learned how to work with databases, interactive designs and other essential features of a functional web application. I work in Ruby on Rails, JavaScript, React, Redux, CSS, HTML and SQLite. I am now eager to launch my career as a junior software developer. Open to relocate or work remotely. 
 
 ## Contact Me 
 Email: beksultankaiypov@gmail.com
