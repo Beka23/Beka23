@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Beksultan, my friends usually call me Bek. Experienced in Ruby on Rails, JavaScript, Redux, CSS, HTML, SQLite and React based programming, I am a diligent worker possessing strong skills in writing clean code, problem solving, and learning new technologies. Recently I've successfully completed a Full-Stack Software Engineering program at Flatiron School, which expanded my creative tools and enhanced my backend and frontend skills. I learned how to work with databases, interactive designs and other essential features of a functional web application. I am now eager to launch my career as a junior software developer. Open to relocate or work remotely. 
+My name is Beksultan, my friends usually call me Bek. I am a full stack software engineer. Experienced in backend and frontend. Fluent in Ruby, Ruby on Rails, JavaScript, React, Redux, HTML, CSS. I'm currently looking for full time or contract opportunities. Open to relocate or work remotely. 
 
 ## Contact Me 
 Email: beksultankaiypov@gmail.com
