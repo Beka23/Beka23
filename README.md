@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Beksultan, my friends usually call me Bek. I am a full stack software engineer. Experienced in backend and frontend. Fluent in Ruby, Ruby on Rails, JavaScript, React, Redux, HTML, CSS. I'm currently looking for full time or contract opportunities. Open to relocate or work remotely. Feel free to get in touch! 
+My name is Beksultan, my friends usually call me Bek. I am a full-stack software engineer. Experienced in backend and frontend. Fluent in Ruby, Ruby on Rails, JavaScript, React, Redux, HTML, CSS. I'm currently looking for full time or contract opportunities. Open to relocate or work remotely. Feel free to get in touch! 
 
 ## Contact Me 
 Email: beksultankaiypov@gmail.com
